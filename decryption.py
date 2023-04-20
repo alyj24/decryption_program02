@@ -24,4 +24,5 @@ for i in range(len(input_str)):
   else:
     output_str += input_str[i]
 # print the output
+print(output_str)
 
