@@ -17,7 +17,11 @@ Install the Gitbash using this link https://git-scm.com/download/win.
 
 # Launch
 $ git clone https://github.com/alyj24/decryption_program02.git
+
 $ cd decryption_program02
+
 $ git add -A
+
 $ git commit -m " "
+
 & git push
